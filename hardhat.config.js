@@ -14,7 +14,7 @@ module.exports = {
     },
     goerli: {
       url: 'https://eth-goerli.g.alchemy.com/v2/QGkOldgHcks-Cd3t8jjmNgc5_u14ZyYH',
-      accounts: ['3193b329608788d5894cb2b211a1453d1d476fdf5a9ca55d912154cfc28597d9']
+      accounts: ['']
     }
   }
 };
