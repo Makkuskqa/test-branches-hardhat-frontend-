@@ -1,3 +1,3 @@
-[submodule "test-branches-hardhat-frontend-"]
+[submodule "frontend"]
 	path = test-branches-hardhat-frontend-
 	url = https://github.com/Makkuskqa/test-branches-hardhat-frontend-.git
